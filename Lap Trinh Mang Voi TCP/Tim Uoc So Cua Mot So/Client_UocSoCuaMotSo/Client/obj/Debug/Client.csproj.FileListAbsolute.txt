@@ -1,0 +1,8 @@
+E:\Visual studio\O truong\Client\Client\bin\Debug\Client.exe.config
+E:\Visual studio\O truong\Client\Client\bin\Debug\Client.exe
+E:\Visual studio\O truong\Client\Client\bin\Debug\Client.pdb
+E:\Visual studio\O truong\Client\Client\obj\Debug\Client.exe
+E:\Visual studio\O truong\Client\Client\obj\Debug\Client.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Tim Uoc So Cua Mot So\Client_UocSoCuaMotSo\Client\bin\Debug\Client.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Tim Uoc So Cua Mot So\Client_UocSoCuaMotSo\Client\obj\Debug\Client.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Tim Uoc So Cua Mot So\Client_UocSoCuaMotSo\Client\obj\Debug\Client.pdb

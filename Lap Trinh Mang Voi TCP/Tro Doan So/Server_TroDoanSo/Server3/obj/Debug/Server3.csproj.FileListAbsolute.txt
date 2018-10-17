@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Server3\Server3\bin\Debug\Server3.exe.config
+E:\Visual studio\O truong\Server3\Server3\bin\Debug\Server3.exe
+E:\Visual studio\O truong\Server3\Server3\bin\Debug\Server3.pdb
+E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.exe
+E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.pdb

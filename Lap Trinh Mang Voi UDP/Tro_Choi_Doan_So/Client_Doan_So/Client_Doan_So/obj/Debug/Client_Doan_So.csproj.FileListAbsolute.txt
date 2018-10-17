@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\bin\Debug\Client_Doan_So.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\bin\Debug\Client_Doan_So.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\bin\Debug\Client_Doan_So.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\obj\Debug\Client_Doan_So.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\obj\Debug\Client_Doan_So.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_Doan_So\Client_Doan_So\obj\Debug\Client_Doan_So.csprojResolveAssemblyReference.cache

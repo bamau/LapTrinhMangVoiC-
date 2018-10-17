@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_ChatTuanTu", "Client_ChatTuanTu\Client_ChatTuanTu.csproj", "{99A1A0DE-F15D-49E1-A496-1EB348F12C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A1A0DE-F15D-49E1-A496-1EB348F12C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A1A0DE-F15D-49E1-A496-1EB348F12C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A1A0DE-F15D-49E1-A496-1EB348F12C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A1A0DE-F15D-49E1-A496-1EB348F12C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8756E53-8681-4FC5-9C5A-36B643782CD3}
+	EndGlobalSection
+EndGlobal

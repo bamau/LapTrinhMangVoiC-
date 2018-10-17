@@ -1,0 +1,5 @@
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Hieu_Hai_So_(1 Client)\Client_HieuHaiSo\Client_HieuHaiSo\bin\Debug\Client_HieuHaiSo.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Hieu_Hai_So_(1 Client)\Client_HieuHaiSo\Client_HieuHaiSo\bin\Debug\Client_HieuHaiSo.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Hieu_Hai_So_(1 Client)\Client_HieuHaiSo\Client_HieuHaiSo\bin\Debug\Client_HieuHaiSo.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Hieu_Hai_So_(1 Client)\Client_HieuHaiSo\Client_HieuHaiSo\obj\Debug\Client_HieuHaiSo.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Hieu_Hai_So_(1 Client)\Client_HieuHaiSo\Client_HieuHaiSo\obj\Debug\Client_HieuHaiSo.pdb

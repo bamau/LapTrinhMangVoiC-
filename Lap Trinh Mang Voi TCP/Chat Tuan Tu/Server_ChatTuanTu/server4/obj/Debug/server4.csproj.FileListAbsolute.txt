@@ -1,0 +1,12 @@
+E:\Visual studio\O truong\server4\server4\bin\Debug\server4.exe.config
+E:\Visual studio\O truong\server4\server4\bin\Debug\server4.exe
+E:\Visual studio\O truong\server4\server4\bin\Debug\server4.pdb
+E:\Visual studio\O truong\server4\server4\obj\Debug\server4.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\server4\server4\obj\Debug\server4.exe
+E:\Visual studio\O truong\server4\server4\obj\Debug\server4.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\bin\Debug\server4.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\obj\Debug\server4.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\obj\Debug\server4.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\bin\Debug\server4.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\bin\Debug\server4.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Server_ChatTuanTu\server4\obj\Debug\server4.csprojResolveAssemblyReference.cache

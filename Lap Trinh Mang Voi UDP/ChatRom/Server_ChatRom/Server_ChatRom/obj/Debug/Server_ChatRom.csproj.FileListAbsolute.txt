@@ -1,0 +1,1 @@
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\ChatRom\Server_ChatRom\Server_ChatRom\bin\Debug\Server_ChatRom.exe.config

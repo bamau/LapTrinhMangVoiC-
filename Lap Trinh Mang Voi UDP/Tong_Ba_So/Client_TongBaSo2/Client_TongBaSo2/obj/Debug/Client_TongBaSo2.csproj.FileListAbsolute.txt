@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\bin\Debug\Client_TongBaSo2.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\bin\Debug\Client_TongBaSo2.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\bin\Debug\Client_TongBaSo2.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\obj\Debug\Client_TongBaSo2.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\obj\Debug\Client_TongBaSo2.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo2\Client_TongBaSo2\obj\Debug\Client_TongBaSo2.pdb

@@ -1,0 +1,5 @@
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Bai_Kiem_Tra(1client)\Client\Client\bin\Debug\Client.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Bai_Kiem_Tra(1client)\Client\Client\bin\Debug\Client.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Bai_Kiem_Tra(1client)\Client\Client\bin\Debug\Client.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Bai_Kiem_Tra(1client)\Client\Client\obj\Debug\Client.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Bai_Kiem_Tra(1client)\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,5 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo1\Client_TongBaSo1\bin\Debug\Client_TongBaSo1.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo1\Client_TongBaSo1\bin\Debug\Client_TongBaSo1.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo1\Client_TongBaSo1\bin\Debug\Client_TongBaSo1.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo1\Client_TongBaSo1\obj\Debug\Client_TongBaSo1.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Client_TongBaSo1\Client_TongBaSo1\obj\Debug\Client_TongBaSo1.pdb

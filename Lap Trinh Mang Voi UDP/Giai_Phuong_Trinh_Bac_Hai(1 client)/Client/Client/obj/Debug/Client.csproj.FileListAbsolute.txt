@@ -1,0 +1,5 @@
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Client\Client\bin\Debug\Client.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Client\Client\bin\Debug\Client.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Client\Client\bin\Debug\Client.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Client\Client\obj\Debug\Client.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\bin\Debug\Server.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\bin\Debug\Server.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\bin\Debug\Server.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\obj\Debug\Server.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Bai_Kiem_Tra_(1 client)\Server\Server\obj\Debug\Server.pdb

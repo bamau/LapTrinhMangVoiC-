@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\bin\Debug\Client_ChatTuanTu.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\bin\Debug\Client_ChatTuanTu.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\bin\Debug\Client_ChatTuanTu.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\obj\Debug\Client_ChatTuanTu.csproj.CoreCompileInputs.cache
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\obj\Debug\Client_ChatTuanTu.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Chat_tuan_tu\Client_ChatTuanTu\Client_ChatTuanTu\obj\Debug\Client_ChatTuanTu.pdb

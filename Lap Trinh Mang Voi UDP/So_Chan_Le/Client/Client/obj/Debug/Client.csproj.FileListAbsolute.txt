@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\bin\Debug\Client.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\bin\Debug\Client.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\bin\Debug\Client.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\obj\Debug\Client.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,5 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_DoanSo2\Client_DoanSo2\bin\Debug\Client_DoanSo2.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_DoanSo2\Client_DoanSo2\bin\Debug\Client_DoanSo2.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_DoanSo2\Client_DoanSo2\bin\Debug\Client_DoanSo2.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_DoanSo2\Client_DoanSo2\obj\Debug\Client_DoanSo2.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Tro_Choi_Doan_So\Client_DoanSo2\Client_DoanSo2\obj\Debug\Client_DoanSo2.pdb

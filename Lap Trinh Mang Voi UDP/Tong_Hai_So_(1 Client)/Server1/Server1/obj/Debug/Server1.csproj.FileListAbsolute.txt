@@ -1,0 +1,10 @@
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\bin\Debug\Server1.exe.config
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\bin\Debug\Server1.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\bin\Debug\Server1.pdb
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\obj\Debug\Server1.exe
+E:\Visual studio\O truong\Lap trinh mang voi UDP\Server1\Server1\obj\Debug\Server1.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Tong_Hai_So_(1 Client)\Server1\Server1\bin\Debug\Server1.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Tong_Hai_So_(1 Client)\Server1\Server1\obj\Debug\Server1.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi UDP\Tong_Hai_So_(1 Client)\Server1\Server1\obj\Debug\Server1.pdb

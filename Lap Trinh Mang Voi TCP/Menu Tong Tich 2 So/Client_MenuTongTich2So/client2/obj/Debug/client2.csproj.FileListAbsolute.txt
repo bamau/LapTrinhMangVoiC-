@@ -1,0 +1,6 @@
+E:\Visual studio\O truong\client2\client2\bin\Debug\client2.exe.config
+E:\Visual studio\O truong\client2\client2\bin\Debug\client2.exe
+E:\Visual studio\O truong\client2\client2\bin\Debug\client2.pdb
+E:\Visual studio\O truong\client2\client2\obj\Debug\client2.csprojResolveAssemblyReference.cache
+E:\Visual studio\O truong\client2\client2\obj\Debug\client2.exe
+E:\Visual studio\O truong\client2\client2\obj\Debug\client2.pdb

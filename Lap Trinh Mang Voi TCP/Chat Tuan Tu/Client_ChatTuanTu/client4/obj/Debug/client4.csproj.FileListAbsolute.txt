@@ -1,0 +1,10 @@
+E:\Visual studio\O truong\client4\client4\bin\Debug\client4.exe.config
+E:\Visual studio\O truong\client4\client4\bin\Debug\client4.exe
+E:\Visual studio\O truong\client4\client4\bin\Debug\client4.pdb
+E:\Visual studio\O truong\client4\client4\obj\Debug\client4.exe
+E:\Visual studio\O truong\client4\client4\obj\Debug\client4.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Client_ChatTuanTu\client4\bin\Debug\client4.exe.config
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Client_ChatTuanTu\client4\obj\Debug\client4.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Client_ChatTuanTu\client4\obj\Debug\client4.pdb
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Client_ChatTuanTu\client4\bin\Debug\client4.exe
+E:\Visual studio\O truong\Lap Trinh Mang Voi TCP\Chat Tuan Tu\Client_ChatTuanTu\client4\bin\Debug\client4.pdb
