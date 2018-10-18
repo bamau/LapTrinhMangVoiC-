@@ -4,3 +4,6 @@ E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Server_TongBaSo\Serv
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\obj\Debug\Server_TongBaSo.csprojResolveAssemblyReference.cache
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\obj\Debug\Server_TongBaSo.exe
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\obj\Debug\Server_TongBaSo.pdb
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\bin\Debug\Server_TongBaSo.exe.config
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\obj\Debug\Server_TongBaSo.exe
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Ba_So\Server_TongBaSo\Server_TongBaSo\obj\Debug\Server_TongBaSo.pdb

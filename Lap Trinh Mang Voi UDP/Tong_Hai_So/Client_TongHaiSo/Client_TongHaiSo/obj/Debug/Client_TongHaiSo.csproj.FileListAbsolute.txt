@@ -4,3 +4,6 @@ E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Hai_So\Client_TongHaiSo\Cl
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\obj\Debug\Client_TongHaiSo.exe
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\obj\Debug\Client_TongHaiSo.pdb
 E:\Visual studio\O truong\Lap trinh mang voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\obj\Debug\Client_TongHaiSo.csprojResolveAssemblyReference.cache
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\bin\Debug\Client_TongHaiSo.exe.config
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\obj\Debug\Client_TongHaiSo.exe
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Tong_Hai_So\Client_TongHaiSo\Client_TongHaiSo\obj\Debug\Client_TongHaiSo.pdb
