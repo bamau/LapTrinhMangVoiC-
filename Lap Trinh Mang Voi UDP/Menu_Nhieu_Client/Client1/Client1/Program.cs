@@ -9,7 +9,7 @@ using System.Net.Sockets;
 namespace Client1
 {
     class Program
-    {
+    {      
         static void Main(string[] args)
         {
             UdpClient client = new UdpClient("127.0.0.1", (9050));
@@ -45,11 +45,31 @@ namespace Client1
                     byte[] data3 = new byte[10];
                     data3 = client.Receive(ref server);
                     string kq = Encoding.ASCII.GetString(data3);
-                    Console.WriteLine(kq);
+                    Console.WriteLine("Tong ba so vua nhap la: {0}", kq);
                 }
                 if(so2=="2")
                 {
-
+                    while (true)
+                    {
+                        byte[] data4 = new byte[10];
+                        data4 = client.Receive(ref server);
+                        string flag = Encoding.ASCII.GetString(data4);
+                        if (flag == "0")
+                        {
+                            byte[] data3 = new byte[10];
+                            data3 = client.Receive(ref server);
+                            string kq = Encoding.ASCII.GetString(data3);
+                            Console.WriteLine("Cac so le la: {0}", kq);
+                        }                                         
+                        if (flag == "1")
+                        {
+                            break;
+                        }
+                    }
+                }
+                if(so2=="3")
+                {
+                    return;
                 }
             } while (so2 != "3");
             Console.ReadLine();

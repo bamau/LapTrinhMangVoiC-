@@ -1,0 +1,5 @@
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client1\Client1\bin\Debug\Client1.exe.config
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client1\Client1\bin\Debug\Client1.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client1\Client1\bin\Debug\Client1.pdb
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client1\Client1\obj\Debug\Client1.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client1\Client1\obj\Debug\Client1.pdb

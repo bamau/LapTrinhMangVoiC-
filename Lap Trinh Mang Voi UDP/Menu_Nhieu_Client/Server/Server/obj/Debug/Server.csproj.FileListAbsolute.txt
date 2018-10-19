@@ -1,0 +1,6 @@
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\bin\Debug\Server.exe.config
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\bin\Debug\Server.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\bin\Debug\Server.pdb
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\obj\Debug\Server.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Server\Server\obj\Debug\Server.pdb
