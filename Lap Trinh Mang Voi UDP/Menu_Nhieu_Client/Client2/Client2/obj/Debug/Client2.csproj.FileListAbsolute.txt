@@ -1,0 +1,6 @@
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\bin\Debug\Client2.exe.config
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\bin\Debug\Client2.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\bin\Debug\Client2.pdb
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\obj\Debug\Client2.exe
+E:\Tai lieu nam 4\Lap Trinh Mang\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi UDP\Menu_Nhieu_Client\Client2\Client2\obj\Debug\Client2.pdb

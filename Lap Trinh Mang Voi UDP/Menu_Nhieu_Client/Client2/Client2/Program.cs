@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Client1
+namespace Client2
 {
     class Program
-    {      
+    {
         static void Main(string[] args)
         {
             UdpClient client = new UdpClient("127.0.0.1", (9050));
@@ -44,14 +44,14 @@ namespace Client1
                 dl2 = so2 + "_" + count;
                 byte[] data2 = Encoding.ASCII.GetBytes(dl2);
                 client.Send(data2, data2.Length);
-                if(so2=="1")
+                if (so2 == "1")
                 {
                     byte[] data3 = new byte[10];
                     data3 = client.Receive(ref server);
                     string kq = Encoding.ASCII.GetString(data3);
                     Console.WriteLine("Tong ba so vua nhap la: {0}", kq);
                 }
-                if(so2=="2")
+                if (so2 == "2")
                 {
                     while (true)
                     {
@@ -64,14 +64,14 @@ namespace Client1
                             data3 = client.Receive(ref server);
                             string kq = Encoding.ASCII.GetString(data3);
                             Console.WriteLine("Cac so le la: {0}", kq);
-                        }                                         
+                        }
                         if (flag == "1")
                         {
                             break;
                         }
                     }
                 }
-                if(so2=="3")
+                if (so2 == "3")
                 {
                     return;
                 }
