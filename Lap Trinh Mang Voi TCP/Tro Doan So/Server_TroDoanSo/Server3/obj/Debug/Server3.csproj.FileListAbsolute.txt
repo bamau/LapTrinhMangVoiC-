@@ -4,3 +4,6 @@ E:\Visual studio\O truong\Server3\Server3\bin\Debug\Server3.pdb
 E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.csprojResolveAssemblyReference.cache
 E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.exe
 E:\Visual studio\O truong\Server3\Server3\obj\Debug\Server3.pdb
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Server_TroDoanSo\Server3\bin\Debug\Server3.exe.config
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Server_TroDoanSo\Server3\obj\Debug\Server3.exe
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Server_TroDoanSo\Server3\obj\Debug\Server3.pdb

@@ -15,16 +15,15 @@ namespace Server
         static void Main(string[] args)
         {
             TcpListener ss = new TcpListener(1234);
-            ss.Start();
-            IPEndPoint client = new IPEndPoint(IPAddress.Any, 0);
-            List<IPEndPoint> listClient = new List<IPEndPoint>();
-            List<string> liststring = new List<string>();
+            ss.Start();            
+            Random rd = new Random();
+            int so = rd.Next(0, 100);
             while (true)
             {
-                Socket sv = ss.AcceptSocket();              
-                TT_CV cv = new TT_CV(sv);
+                Socket sv = ss.AcceptSocket();
+                TT_CV cv = new TT_CV(sv, so);
                 Thread t = new Thread(new ThreadStart(cv.run));
-                t.Start();               
+                t.Start();              
             }
         }
     }

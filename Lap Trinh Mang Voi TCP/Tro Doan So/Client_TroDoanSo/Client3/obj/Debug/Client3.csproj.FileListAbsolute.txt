@@ -3,3 +3,6 @@ E:\Visual studio\O truong\Client3\Client3\bin\Debug\Client3.exe
 E:\Visual studio\O truong\Client3\Client3\bin\Debug\Client3.pdb
 E:\Visual studio\O truong\Client3\Client3\obj\Debug\Client3.exe
 E:\Visual studio\O truong\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Client_TroDoanSo\Client3\bin\Debug\Client3.exe.config
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Client_TroDoanSo\Client3\obj\Debug\Client3.exe
+C:\Users\hocvien\Desktop\LapTrinhMangVoiC-Shap\Lap Trinh Mang Voi TCP\Tro Doan So\Client_TroDoanSo\Client3\obj\Debug\Client3.pdb
